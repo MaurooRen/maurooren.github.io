@@ -8,7 +8,7 @@ layout: default
 
 ## Mi educación
 	
-En solo unos cuantos renglones... para mi el verdadero aprendizaje a sido de forma autodidacta "aprender haciendo", aun con un promedio de 4.0 en la univesidad y en mis ultimos años de bachillerato, tengo una distincion muy marcado en lo que he aprendido de manera formal y lo aprendido por la necesidad de querer saber como funcionan las cosas (esto para mi implica un esfuerzo real de mi parte), pues gracias a esta necesidad he aprendido que es programar, diseñar, el marketing, la pedagogia, filosofia, lo importante de hablar en publico y que es emprender...
+En solo unos cuantos renglones... para mí el verdadero aprendizaje ha sido de forma autodidacta "aprender haciendo", aun con un promedio de 4.0 (que no es tan bueno) en la universidad y en mis últimos años de bachillerato, tengo una distinción muy marcado en lo que he aprendido de manera formal y lo aprendido por mi propia necesidad de querer saber cómo funcionan las cosas (esto para mi implica un esfuerzo real de mi parte), pues gracias a esta necesidad he aprendido que es programar, diseñar, el marketing, la pedagogía, filosofía, la importancia de hablar en público y que es emprender...
 
 ### Pregrado (Actual)
 
@@ -27,6 +27,16 @@ En solo unos cuantos renglones... para mi el verdadero aprendizaje a sido de for
 * [Taller de Prospección en Internet](https://drive.google.com/file/d/0B1RMsFk-T_Z9ZmhzY3h3bjNsVWs/view), 2016.
 * [Taller de Google para Pymes](https://drive.google.com/file/d/0B1RMsFk-T_Z9dW1GWFUwT1lNZEE/view?usp=sharing), 2016.
 * [Maquetando al Monstruo - Acamica](https://www.acamica.com/cert/8bd29c96ac42b839a99e2e87bed5fd20b253e011?lipi=urn:li:page:d_flagship3_profile_view_base;gkubWjOHTge%2B9QX3Q8Jf6Q%3D%3D), 2014.
+
+### Cursos
+
+* Fundamentos de Bootstrap 4 - Udemy
+* GitHub para programadores - Video2Brain
+* HTML5 Y CSS3 - Las tecnologías que cambiarán internet - Video2Brain
+* jQuery Mobile - Diseño de webapps multiplataforma para dispositivos móviles y tablets - Video2Brain
+* Adobe Dreamweaver CS4 Avanzado - Video2Brain
+
+
 
 
 
