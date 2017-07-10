@@ -20,7 +20,7 @@ En solo unos cuantos renglones... para mí el verdadero aprendizaje ha sido de f
 
 ### Bachiller
 
-* Promocion 2016: **Bachiller Académico con Profundización en Educacion** Institucion Educativa Normal Superior Santiago de Cali con un
+* Promoción 2016: **Bachiller Académico con Profundización en Educación** Institución Educativa Normal Superior Santiago de Cali con un
 * Mención de Honor Al Liderazgo (2016)
 * Reconocimiento por el Cuidado al Planeta (2014)
 
@@ -42,11 +42,11 @@ En solo unos cuantos renglones... para mí el verdadero aprendizaje ha sido de f
 
 ## Experiencia de voluntariado
 
-* Proyecto [Neurófilos](http://facebook.com/neurofilos): Actualmente soy el **Coordinador & Director de Medios Digitales**, me encargo del area logistica en Talleres como [TREC - Dra. Ann Vernon](https://www.facebook.com/neurofilos/posts/1918473871768816), [Filosofía para niños](https://www.facebook.com/neurofilos/videos/1899372483678955/), [Escritura de guiones - Andrés Beltrán](https://www.facebook.com/neurofilos/posts/1903287973287406), [Filosofía Antigua - François Gagin](https://www.facebook.com/neurofilos/posts/1908076889475181), el uso de herramientas digital y redes sociales, en procesos educativo y marketing (2016 - Actualidad).
+* Proyecto [Neurófilos](http://facebook.com/neurofilos): Actualmente soy el **Coordinador & Director de Medios Digitales**, me encargo del área logística en Talleres como: [TREC - Dra. Ann Vernon](https://www.facebook.com/neurofilos/posts/1918473871768816), [Filosofía para niños](https://www.facebook.com/neurofilos/videos/1899372483678955/), [Escritura de guiones - Andrés Beltrán](https://www.facebook.com/neurofilos/posts/1903287973287406), [Filosofía Antigua - François Gagin](https://www.facebook.com/neurofilos/posts/1908076889475181), el uso de herramientas digital y redes sociales, en procesos educativo y marketing (2016 - Actualidad).
 * Foro Municipal de Educación de Santiago de Cali: Participación del Proyecto Neurófilos en el Foro Municipal de Educación de Santiago de Cali como una propuesta de mejorar la calidad de la educación en las instituciones de carácter oficial (2016).
-* School MeetUp - [CCC](http://www.ccc.org.co/): Seleccionado como Lider Emprendedor por las directivas de la I.E.N.S., junto a otros dos jovenes, realice la apetura a los expositores José Julián Sánchez y [Óscar Giraldo](https://www.facebook.com/MiHistoriaOscarGiraldo/), emprendedores de alto impacto en la región, en el ‘School MeetUp’, un espacio diseñado por la Secretaría de Educación Municipal y la Cámara de Comercio de Cali (2016).
-* Proyecto PUNA: Tuve el rol de Diseñador Grafico, Apoyo logisto a eventos y Apoyo en redes sociales y medios ditigales en este proyecto institucion, el cual tenia como finalidad el mejoramiento y enriquecimiento en la cultura civica y ambiental dentro de la I.E.N.S. (2013 - 2016).
-* Institución Educativa [El Hormiguero](https://drive.google.com/drive/folders/0B1RMsFk-T_Z9ZTlOblozZGlWcTA?usp=sharing): Junto con el Proyecto PUNA, realizamos actividades de acompañamiento y socialización en **cuidado del medio ambiente** a esta institución, valva destacar RURAL, que a su vez con el papel de centro educatico recibe y atiende a niños y niñas de escasos recursos y situaciones de vulnerabilidad.
+* School MeetUp - [CCC](http://www.ccc.org.co/): Seleccionado como Líder Emprendedor por las directivas de la I.E.N.S., junto a otros dos jóvenes, realice la apertura a los expositores José Julián Sánchez y [Óscar Giraldo](https://www.facebook.com/MiHistoriaOscarGiraldo/), emprendedores de alto impacto en la región, en el ‘School MeetUp’, un espacio diseñado por la Secretaría de Educación Municipal y la Cámara de Comercio de Cali (2016).
+* Proyecto PUNA: Tuve el rol de Diseñador Gráfico, Apoyo logisto a eventos y Apoyo en redes sociales y medios digitales en este proyecto institución, el cual tenía como finalidad el mejoramiento y enriquecimiento en la cultura cívica y ambiental dentro de la I.E.N.S. (2013 - 2016).
+* Institución Educativa [El Hormiguero](https://drive.google.com/drive/folders/0B1RMsFk-T_Z9ZTlOblozZGlWcTA?usp=sharing): Junto con el Proyecto PUNA, realizamos actividades de acompañamiento y socialización en **cuidado del medio ambiente** a esta institución, valga destacar RURAL, que a su vez con el papel de centro educativo recibe y atiende a niños y niñas de escasos recursos y situaciones de vulnerabilidad.
 
 ## ¿Mas acerca de mi?
 
