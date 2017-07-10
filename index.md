@@ -23,7 +23,7 @@ layout: default
 
 ## Experiencia de voluntariado
 
-* Proyecto Neurófilos: Actualmente soy el **Coordinador de Proyecto & Director de Medios Digitales** (2016 - Actualidad).<br>Espacio para el pensamiento libre que induzca a la reflexión filosófica, al debate y a la lectura critica, mientras se propone el ABC de la TREC, como un camino para vivir y conocerse mejor y se frecuenta, sin temores, el cartesiano habito de dudar. 
+* Proyecto [Neurófilos](http://facebook.com/neurofilos): Actualmente soy el **Coordinador & Director de Medios Digitales**, me encargo del area logistica en Talleres de [TREC - Dra. Ann Vernon.](https://www.facebook.com/neurofilos/posts/1918473871768816), [Filosofía para niños](https://www.facebook.com/neurofilos/videos/1899372483678955/), [Escritura de guiones - Andrés Beltrán](https://www.facebook.com/neurofilos/posts/1903287973287406), [Filosofía Antigua](https://www.facebook.com/neurofilos/posts/1908076889475181), el uso de herramientas digital y  redes sociales (2016 - Actualidad).
 
 
 ## ¿Mas acerca de mi?
