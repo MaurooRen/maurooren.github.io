@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/maurooren)
+[<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/maurooren) [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/maurooren) [<i class="fa fa-linkedin" aria-hidden="true"></i>](https://www.linkedin.com/in/maurooren/) [<i class="fa fa-instagram" aria-hidden="true"></i>](https://www.instagram.com/maurooren/) [<i class="fa fa-medium" aria-hidden="true"></i>](https://medium.com/@maurooren)
 
 [Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
 
