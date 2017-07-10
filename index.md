@@ -6,7 +6,7 @@ layout: default
 
 [Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
 
-## Educación Formal
+## Educación formal
 
 ### Pregrado (Actual)
 
@@ -15,12 +15,22 @@ layout: default
 ### Bachiller
 
 * Promocion 2016: **Bachiller Académico con Profundización en Educacion** Institucion Educativa Normal Superior Santiago de Cali con un
-
 * Mención de Honor Al Liderazgo (2016)
-
 * Reconocimiento por el Cuidado al Planeta (2014)
 
+## En lo que he trabajado
 
+
+## Mi experiencia como voluntariado
+
+
+## ¿Mas acerca de mi?
+
+
+
+### Menciones
+
+* Periodico Diario El Pais: Espacio de Motivación Empresarial en Colegios, 2016
 
 
 
