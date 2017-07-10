@@ -2,14 +2,24 @@
 layout: default
 ---
 
-[<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/maurooren) [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/maurooren) [<i class="fa fa-linkedin" aria-hidden="true"></i>](https://www.linkedin.com/in/maurooren/) [<i class="fa fa-instagram" aria-hidden="true"></i>](https://www.instagram.com/maurooren/) [<i class="fa fa-medium" aria-hidden="true"></i>](https://medium.com/@maurooren)
+[<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/maurooren) [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/maurooren) [<i class="fa fa-linkedin" aria-hidden="true"></i>](https://www.linkedin.com/in/maurooren/) [<i class="fa fa-instagram" aria-hidden="true"></i>](https://www.instagram.com/maurooren/)
 
 [Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
 
-<iframe src="https://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
+## Educación
 
-Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
+### Actual
+
+* Tecnología de Sistemas de la Información en la [Universidad del Valle](http://tecnosistemas.univalle.edu.co/)
+
+
+
+
+
+
+
+
+
 
 ## Solo is useful if...
 
