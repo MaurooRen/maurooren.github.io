@@ -6,6 +6,10 @@ layout: default
 
 [Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
 
+## Acerca de mí
+
+## En lo que he trabajado
+
 ## Mi educación
 	
 En solo unos cuantos renglones... para mí el verdadero aprendizaje ha sido de forma autodidacta "aprender haciendo", aun con un promedio de 4.0 (que no es tan bueno) en la universidad y en mis últimos años de bachillerato, tengo una distinción muy marcado en lo que he aprendido de manera formal y lo aprendido por mi propia necesidad de querer saber cómo funcionan las cosas (esto para mi implica un esfuerzo real de mi parte), pues gracias a esta necesidad he aprendido que es programar, diseñar, el marketing, la pedagogía, filosofía, la importancia de hablar en público y que es emprender...
@@ -36,13 +40,6 @@ En solo unos cuantos renglones... para mí el verdadero aprendizaje ha sido de f
 * jQuery Mobile - Diseño de webapps multiplataforma para dispositivos móviles y tablets - Video2Brain
 * Adobe Dreamweaver CS4 Avanzado - Video2Brain
 
-
-
-
-
-## En lo que he trabajado
-
-
 ## Experiencia de voluntariado
 
 * Proyecto [Neurófilos](http://facebook.com/neurofilos): Actualmente soy el **Coordinador & Director de Medios Digitales**, me encargo del area logistica en Talleres como [TREC - Dra. Ann Vernon](https://www.facebook.com/neurofilos/posts/1918473871768816), [Filosofía para niños](https://www.facebook.com/neurofilos/videos/1899372483678955/), [Escritura de guiones - Andrés Beltrán](https://www.facebook.com/neurofilos/posts/1903287973287406), [Filosofía Antigua - François Gagin](https://www.facebook.com/neurofilos/posts/1908076889475181), el uso de herramientas digital y redes sociales, en procesos educativo y marketing (2016 - Actualidad).
@@ -53,61 +50,9 @@ En solo unos cuantos renglones... para mí el verdadero aprendizaje ha sido de f
 
 ## ¿Mas acerca de mi?
 
-
-
 ### Menciones
 
 * Periodico Diario El Pais: Espacio de Motivación Empresarial en Colegios, 2016
-
-
-
-
-## Solo is useful if...
-
-* You want to create an "about me" page from a single markdown file and host it under a custom domain name.
-* You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
-* You want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
-* You want something like GitHub's [automatic page generator](http://pages.github.com/) for a non-code repository.
-
-This page itself is built with Solo. It's generated from [this markdown file](https://github.com/chibicode/solo/blob/gh-pages/_includes/index.md).
-
-## Usage
-
-First, [install Jekyll](http://jekyllrb.com/docs/installation/). Then download Solo from its [GitHub Repository](https://github.com/chibicode/solo). Start Jekyll and you should see this page up and running.
-
-**The main file you'll be editing is `index.md`**. This becomes the content for the page.
-
-### Other Files
-
-* Edit `_config.yml` to change the site's title and description.
-* Edit `_includes/head.html` to add custom code to `<head>`.
-* Edit `_includes/scripts.html` to add custom code before `</body>`.
-* Edit `CNAME` to host on a custom domain.
-* Edit `README.md` before pushing your code.
-
-### Don't use `<h1>` tags
-
-Wthin `index.md`, do not use `<h1>` tags - `<h1>` is reserved for the site title.
-
-### Supported Tags
-
-Solo supports lists, `<hr>`s, `<table>`s,
-
-> blockquotes, and...
-
-~~~html
-<pre>code blocks with syntax highlighting.</pre>
-~~~
-
-### Keep Solo up to date
-
-Instead of downloading, you can [fork Solo](https://github.com/chibicode/solo/fork) and use the "upstream" strategy described on [this page](https://help.github.com/articles/fork-a-repo) to keep Solo up to date.
-
-## Author
-
-Shu Uesugi ([Twitter](http://twitter.com/chibicode)/[GitHub](http://github.com/chibicode)/[G+](https://plus.google.com/110325199858284431541?rel=author)).
-
-![Shu Uesugi](https://www.gravatar.com/avatar/b868d84bbe2ed30ec45c9253e1c1cefe.jpg?s=200)
 
 ### ¿Quieres saludar? [maurooren@gmail.com](mailto:maurooren@gmail.com)
 
