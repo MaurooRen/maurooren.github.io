@@ -14,7 +14,11 @@ layout: default
 
 ### Bachiller
 
-* Promocion 2016 de la Institucion Educativa Normal Superior Santiago de Cali con un Bachiller Académico con Profundización en Educacion.
+* Promocion 2016: **Bachiller Académico con Profundización en Educacion** Institucion Educativa Normal Superior Santiago de Cali con un
+
+* Mención de Honor Al Liderazgo (2016)
+
+* Reconocimiento por el Cuidado al Planeta (2014)
 
 
 
