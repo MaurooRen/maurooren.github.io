@@ -8,11 +8,11 @@ layout: default
 
 ## Educación
 
-### Actual
+### Pregrado
 
-* Tecnología de Sistemas de la Información en la [Universidad del Valle](http://tecnosistemas.univalle.edu.co/)
+* Actualmente curso un Pregrado en Tecnología de Sistemas de la Información en la [Universidad del Valle](http://tecnosistemas.univalle.edu.co/)
 
-
+### 
 
 
 
