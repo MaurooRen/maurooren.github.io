@@ -23,7 +23,7 @@ layout: default
 
 ## Experiencia de voluntariado
 
-* Proyecto Neurófilos: Actualmente soy el Coordinador de Proyecto & Director de Medios Digitales de este proyecto (2016 - Actualidad)<br>Brindamos a jovenes de la I. E. Normal Superior Santiago de Cali un espacio para el pensamiento libre
+* Proyecto Neurófilos: Actualmente soy el **Coordinador de Proyecto & Director de Medios Digitales** (2016 - Actualidad).<br>Espacio para el pensamiento libre que induzca a la reflexión filosófica, al debate y a la lectura critica, mientras se propone el ABC de la TREC, como un camino para vivir y conocerse mejor y se frecuenta, sin temores, el cartesiano habito de dudar. 
 
 
 ## ¿Mas acerca de mi?
