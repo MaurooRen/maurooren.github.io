@@ -23,7 +23,7 @@ layout: default
 
 ## Experiencia de voluntariado
 
-* Proyecto [Neurófilos](http://facebook.com/neurofilos): Actualmente soy el **Coordinador & Director de Medios Digitales**, me encargo del area logistica en Talleres de [TREC - Dra. Ann Vernon.](https://www.facebook.com/neurofilos/posts/1918473871768816), [Filosofía para niños](https://www.facebook.com/neurofilos/videos/1899372483678955/), [Escritura de guiones - Andrés Beltrán](https://www.facebook.com/neurofilos/posts/1903287973287406), [Filosofía Antigua](https://www.facebook.com/neurofilos/posts/1908076889475181), el uso de herramientas digital y  redes sociales (2016 - Actualidad).
+* Proyecto [Neurófilos](http://facebook.com/neurofilos): Actualmente soy el **Coordinador & Director de Medios Digitales**, me encargo del area logistica en Talleres de [TREC - Dra. Ann Vernon](https://www.facebook.com/neurofilos/posts/1918473871768816), [Filosofía para niños](https://www.facebook.com/neurofilos/videos/1899372483678955/), [Escritura de guiones - Andrés Beltrán](https://www.facebook.com/neurofilos/posts/1903287973287406), [Filosofía Antigua - François Gagin](https://www.facebook.com/neurofilos/posts/1908076889475181), el uso de herramientas digital y redes sociales, en procesos educativo y marketing (2016 - Actualidad).
 
 
 ## ¿Mas acerca de mi?
