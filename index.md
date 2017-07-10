@@ -18,6 +18,16 @@ layout: default
 * Mención de Honor Al Liderazgo (2016)
 * Reconocimiento por el Cuidado al Planeta (2014)
 
+## Certificaciones
+
+* [Curso de Marketing Voz a Voz - Platzi](https://platzi.com/@MaurooRen/marketing-voz/diploma/), 2017.
+* [Curso de Introduccion al Desarrollo Web](https://drive.google.com/file/d/0B1RMsFk-T_Z9bUd0WkZsLWxLSUE/view?usp=sharing), 2016.
+* [Taller de Prospección en Internet](https://drive.google.com/file/d/0B1RMsFk-T_Z9ZmhzY3h3bjNsVWs/view), 2016.
+* [Taller de Google para Pymes](https://drive.google.com/file/d/0B1RMsFk-T_Z9dW1GWFUwT1lNZEE/view?usp=sharing), 2016.
+* [Maquetando al Monstruo - Acamica](https://www.acamica.com/cert/8bd29c96ac42b839a99e2e87bed5fd20b253e011?lipi=urn:li:page:d_flagship3_profile_view_base;gkubWjOHTge%2B9QX3Q8Jf6Q%3D%3D), 2014.
+
+
+
 ## En lo que he trabajado
 
 
@@ -26,7 +36,7 @@ layout: default
 * Proyecto [Neurófilos](http://facebook.com/neurofilos): Actualmente soy el **Coordinador & Director de Medios Digitales**, me encargo del area logistica en Talleres como [TREC - Dra. Ann Vernon](https://www.facebook.com/neurofilos/posts/1918473871768816), [Filosofía para niños](https://www.facebook.com/neurofilos/videos/1899372483678955/), [Escritura de guiones - Andrés Beltrán](https://www.facebook.com/neurofilos/posts/1903287973287406), [Filosofía Antigua - François Gagin](https://www.facebook.com/neurofilos/posts/1908076889475181), el uso de herramientas digital y redes sociales, en procesos educativo y marketing (2016 - Actualidad).
 * Foro Municipal de Educación de Santiago de Cali: Participación del Proyecto Neurófilos en el Foro Municipal de Educación de Santiago de Cali como una propuesta de mejorar la calidad de la educación en las instituciones de carácter oficial (2016).
 * School MeetUp - [CCC](http://www.ccc.org.co/): Seleccionado como Lider Emprendedor por las directivas de la I.E.N.S., junto a otros dos jovenes, realice la apetura a los expositores José Julián Sánchez y [Óscar Giraldo](https://www.facebook.com/MiHistoriaOscarGiraldo/), emprendedores de alto impacto en la región, en el ‘School MeetUp’, un espacio diseñado por la Secretaría de Educación Municipal y la Cámara de Comercio de Cali (2016).
-* Proyecto PUNA: Tuve el rol de Diseñador Grafico, Apoyo logisto a eventos y Apoyo en redes sociales y medios ditigales en este proyecto institucion, el cual tenia como finalidad el mejoramiento y enriquecimiento en la cultura civica y ambiental dentro de la I.E.N.S. institucion en la que curse el bachillerato (2013 - 2016).
+* Proyecto PUNA: Tuve el rol de Diseñador Grafico, Apoyo logisto a eventos y Apoyo en redes sociales y medios ditigales en este proyecto institucion, el cual tenia como finalidad el mejoramiento y enriquecimiento en la cultura civica y ambiental dentro de la I.E.N.S. (2013 - 2016).
 * Institución Educativa [El Hormiguero](https://drive.google.com/drive/folders/0B1RMsFk-T_Z9ZTlOblozZGlWcTA?usp=sharing): Junto con el Proyecto PUNA, realizamos actividades de acompañamiento y socialización en **cuidado del medio ambiente** a esta institución, valva destacar RURAL, que a su vez con el papel de centro educatico recibe y atiende a niños y niñas de escasos recursos y situaciones de vulnerabilidad.
 
 ## ¿Mas acerca de mi?
