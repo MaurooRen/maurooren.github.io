@@ -6,7 +6,9 @@ layout: default
 
 [Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
 
-## Educación formal
+## Mi educación
+	
+En solo unos cuantos renglones... para mi el verdadero aprendizaje a sido de forma autodidacta "aprender haciendo", aun con un promedio de 4.0 en la univesidad y en mis ultimos años de bachillerato, tengo una distincion muy marcado en lo que he aprendido de manera formal y lo aprendido por la necesidad de querer saber como funcionan las cosas (esto para mi implica un esfuerzo real de mi parte), pues gracias a esta necesidad he aprendido que es programar, diseñar, el marketing, la pedagogia, filosofia, lo importante de hablar en publico y que es emprender...
 
 ### Pregrado (Actual)
 
@@ -18,7 +20,7 @@ layout: default
 * Mención de Honor Al Liderazgo (2016)
 * Reconocimiento por el Cuidado al Planeta (2014)
 
-## Certificaciones
+### Certificaciones
 
 * [Curso de Marketing Voz a Voz - Platzi](https://platzi.com/@MaurooRen/marketing-voz/diploma/), 2017.
 * [Curso de Introduccion al Desarrollo Web](https://drive.google.com/file/d/0B1RMsFk-T_Z9bUd0WkZsLWxLSUE/view?usp=sharing), 2016.
