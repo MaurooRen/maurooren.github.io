@@ -6,15 +6,15 @@ layout: default
 
 [Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
 
-## Educación
+## Educación Formal
 
-### Pregrado
+### Pregrado (Actual)
 
-* Actualmente curso un Pregrado en Tecnología de Sistemas de la Información en la [Universidad del Valle](http://tecnosistemas.univalle.edu.co/)
+* Pregrado en Tecnología de Sistemas de la Información en la [Universidad del Valle](http://tecnosistemas.univalle.edu.co/)
 
-### 
+### Bachiller
 
-
+* Promocion 2016 de la Institucion Educativa Normal Superior Santiago de Cali con un Bachiller Académico con Profundización en Educacion.
 
 
 
