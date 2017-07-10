@@ -21,7 +21,9 @@ layout: default
 ## En lo que he trabajado
 
 
-## Mi experiencia como voluntariado
+## Experiencia de voluntariado
+
+* Proyecto Neurófilos: Actualmente soy el Coordinador de Proyecto & Director de Medios Digitales de este proyecto (2016 - Actualidad)<br>Brindamos a jovenes de la I. E. Normal Superior Santiago de Cali un espacio para el pensamiento libre
 
 
 ## ¿Mas acerca de mi?
