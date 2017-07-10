@@ -27,8 +27,11 @@ layout: default
 
 * Foro Municipal de Educación de Santiago de Cali: Participación del Proyecto Neurófilos en el Foro Municipal de Educación de Santiago de Cali como una propuesta de mejorar la calidad de la educación en las instituciones de carácter oficial (2016).
 
-* School MeetUp - Camara de Comercio de Cali: Seleccionado como Lider Emprendedor por las directivas de la I.E.N.S. realice la apetura junto a otros otros dos jovenes (de distintas instituciones) a los expositores José Julián Sánchez y [Óscar Giraldo](https://www.facebook.com/MiHistoriaOscarGiraldo/), emprendedores de alto impacto en la región, en el ‘School MeetUp’, un espacio diseñado por la Secretaría de Educación Municipal y la Cámara de Comercio de Cali.
+* School MeetUp - [CCC](http://www.ccc.org.co/): Seleccionado como Lider Emprendedor por las directivas de la I.E.N.S., junto a otros dos jovenes, realice la apetura a los expositores José Julián Sánchez y [Óscar Giraldo](https://www.facebook.com/MiHistoriaOscarGiraldo/), emprendedores de alto impacto en la región, en el ‘School MeetUp’, un espacio diseñado por la Secretaría de Educación Municipal y la Cámara de Comercio de Cali (2016).
 
+* Proyecto PUNA: Tuve el rol de Diseñador Grafico, Apoyo logisto a eventos y Apoyo en redes sociales y medios ditigales en este proyecto institucion, el cual tenia como finalidad el mejoramiento y enriquecimiento en la cultura civica y ambiental dentro de la I.E.N.S. institucion en la que curse el bachillerato (2013 - 2016).
+
+* Institución Educativa El Hormiguero: Junto con el Proyecto PUNA, realizamos actividades de acompañamiento y socialización en **cuidado del medio ambiente** a esta institución, valva destacar RURAL, que a su vez con el papel de centro educatico recibe y atiende a niños y niñas de escasos recursos y situaciones de vulnerabilidad.
 
 ## ¿Mas acerca de mi?
 
