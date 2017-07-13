@@ -17,7 +17,7 @@ Diseño y desarrolló de sitio Web Responsive para compañia americana especiali
 
 Competencias utilizadas:
 * Diseño Web Responsive Design.
-* Desarrolló de Sistema de Gestion de Testimonios y Galeria de trabajos realizados.
+* Desarrolló de Sistema de Gestión de Testimonios y Galería de trabajos realizados.
 
 Lenguajes utilizados:
 * HTML - CSS
@@ -29,16 +29,16 @@ Enlace: [www.kitchendepotus.com](http://kitchendepotus.com/)
 
 Fecha: 2017
 
-### OfertasTech - E-Commerce de articulos electronicos
+### OfertasTech - E-Commerce de artículos electrónicos
 
 Funciones que desempeñe:
-Proyecto personal de construccion de un E-commerce de articulos tecnologicos con concepto de rebajas y atencion personalizada en el proceso de compra.
+Proyecto personal de construcción de un E-commerce de artículos tecnológicos con concepto de rebajas y atención personalizada en el proceso de compra.
 Diseño de identidad de marca.
 
 Competencias utilizadas:
 * Diseño Web Responsive Design.
-* Modelado de datos.
-* Desarrolló de Sistema de Gestion de Productos.
+* Construcción de identidad
+* Utilización del concepto Mobile First
 
 Lenguajes utilizados:
 * HTML - CSS
@@ -53,7 +53,7 @@ Fecha: 2017
 ### JUGAR USA
 
 Funciones que desempeñe:
-Diseño y desarrollo de sitio Web Responsive para compañia americana que se encarga On-demand de la entrega y montaje de equipo deportivo en el area de New Jersey.
+Diseño y desarrollo de sitio Web Responsive para compañía americana que se encarga On-demand de la entrega y montaje de equipo deportivo en el área de New Jersey.
 
 Competencias utilizadas:
 * Diseño Web Responsive Design.
@@ -89,9 +89,9 @@ Diseño y desarrollo de directorio para indexación de restaurantes colombianos 
 
 Competencias utilizadas:
 * Diseño Web Responsive Design.
-* Integracion de Google Maps
+* Integración de Google Maps
 * Modelado de datos.
-* Desarrolló de Sistema de Gestion de Usuarios.
+* Desarrolló de Sistema de Gestión de Usuarios.
 
 Lenguajes utilizados:
 * HTML - CSS
@@ -110,7 +110,7 @@ Diseño y Desarrollo Web Responsive para compañía estadounidense especializada
 
 Competencias utilizadas:
 * Diseño Web Responsive Design.
-* Integracion de Google Maps
+* Integración de Google Maps
 
 Lenguajes utilizados:
 * HTML - CSS
@@ -123,11 +123,11 @@ Fecha: 2016
 ### Nick Paul Tile & Stone
 
 Funciones que desempeñe:
-Diseño y Desarrollo Web Responsive para compañía estadounidense especializada en remodelación de cocinas, encimeras de cocinas, baldosas de baños e instalacion de ganito.
+Diseño y Desarrollo Web Responsive para compañía estadounidense especializada en remodelación de cocinas, encimeras de cocinas, baldosas de baños e instalación de granito.
 
 Competencias utilizadas:
 * Diseño Web Responsive Design.
-* Integracion de Google Maps
+* Integración de Google Maps
 
 Lenguajes utilizados:
 * HTML - CSS
@@ -140,11 +140,11 @@ Fecha: 2016
 ### 3A HILL STONE LLC - Company specializing in Marble and Granite Countertops
 
 Funciones que desempeñe:
-Diseño y Desarrollo Web Responsive para compañía estadounidense especializada en la fabricación de mármol y granito y demás servicios de esa linea.
+Diseño y Desarrollo Web Responsive para compañía estadounidense especializada en la fabricación de mármol y granito y demás servicios de esa línea.
 
 Competencias utilizadas:
 * Diseño Web Responsive Design.
-* Integracion de Google Maps
+* Integración de Google Maps
 
 Lenguajes utilizados:
 * HTML - CSS
@@ -154,17 +154,17 @@ Enlace: [www.3ahillstonellc.us](http://www.3ahillstonellc.us/)
 
 Fecha: 2016
 
-### SmartFixCo - Plataforma en Soporte Tecnico y Reparacion & E-Commerce
+### SmartFixCo - Plataforma en Soporte Técnico y Reparación & E-Commerce
 
 Funciones que desempeñe:
 Diseño y Desarrolló de sitio web y comercio prestador de servicios de electronica y telecomunicaciones.
-Implementacion de catalogo de servicios de reparacion por modelo de dispositivo móvil.
-Implementacion de e-commerce por seccion en articulos electronicos.
+Implementación de catálogo de servicios de reparación por modelo de dispositivo móvil.
+Implementación de e-commerce por sección en artículos electrónicos.
 
 Competencias utilizadas:
 * Diseño Web Responsive Design.
 * Modelado de datos.
-* Desarrolló de Sistema de Gestion de Productos.
+* Desarrolló de Sistema de Gestión de Productos.
 
 Lenguajes utilizados:
 * HTML - CSS
@@ -179,15 +179,15 @@ Fecha: 2016
 ### ZonaQR - Directorio Comercial Especializado
 
 Funciones que desempeñe:
-Diseño y desarrolló e implementacion de directorio comercial especializado Web-Mobile (Responsive Design).
+Diseño y desarrolló e implementación de directorio comercial especializado Web-Mobile (Responsive Design).
 
-Implementacion del portal:
+Implementación del portal:
 Colombia y Estados Unidos.
 
 Competencias utilizadas:
 * Diseño Web Responsive Design.
 * Modelado de datos.
-* Desarrolló de Sistema de Gestion de Usuarios y Publicidad.
+* Desarrolló de Sistema de Gestión de Usuarios y Publicidad.
 
 Lenguajes utilizados:
 * HTML - CSS
@@ -199,11 +199,11 @@ Enlace: [www.zonaqr.com](http://www.zonaqr.com/)
 
 Fecha: Del 2014 al 2016
 
-### JC Reparaciones - Soluciones Tecnologicas
+### JC Reparaciones - Soluciones Tecnológicas
 
 Funciones que desempeñe:
-Segundo programador y diseñador en la construccion de sitio Web Reponsive a base de tema wordpress prefabricado, con catalogo de servicios, productos, integracion de carro de compras con PayPal y demás widgets sociales y de SEO.
-Diseño de imagenes y material publicitario del catalogo de productos.
+Segundo programador y diseñador en la construcción de sitio Web Reponsive a base de tema wordpress prefabricado, con catálogo de servicios, productos, integración de carro de compras con PayPal y demás widgets sociales y de SEO.
+Diseño de imágenes y material publicitario del catálogo de productos.
 
 Competencias utilizadas:
 * Configuración de API de Paypal
@@ -273,7 +273,7 @@ En solo unos cuantos renglones... para mí el verdadero aprendizaje ha sido de f
 
 ### Menciones
 
-* Periodico Diario El Pais: Espacio de Motivación Empresarial en Colegios, 2016
+* Periódico Diario El País: Espacio de Motivación Empresarial en Colegios, 2016
 
 ### ¿Quieres saludar? [maurooren@gmail.com](mailto:maurooren@gmail.com)
 
