@@ -4,12 +4,11 @@ layout: default
 
 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/maurooren) [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/maurooren) [<i class="fa fa-linkedin" aria-hidden="true"></i>](https://www.linkedin.com/in/maurooren/) [<i class="fa fa-instagram" aria-hidden="true"></i>](https://www.instagram.com/maurooren/)
 
-Cita favorita: "La inspiración es para aficionados, los profesionales trabajamos por la mañana" Chuck Close
-
 ## Acerca de mí
 
-## Experiencia
+"La inspiración es para aficionados, los profesionales trabajamos por la mañana" Chuck Close
 
+## Experiencia
 
 ### Rediseño SmartFixCo
 
@@ -30,14 +29,14 @@ Fecha: 2017
 ### SmartFixCo - Plataforma en Soporte Tecnico y Reparacion & E-Commerce
 
 Funciones que desempeñe:
-Diseño y desarrollo de sitio web y comercio prestador de servicios de electronica y telecomunicaciones.
-Implementacion de catalogo de servicios de reparacion por modelo de dispositivo movil.
+Diseño y Desarrolló de sitio web y comercio prestador de servicios de electronica y telecomunicaciones.
+Implementacion de catalogo de servicios de reparacion por modelo de dispositivo móvil.
 Implementacion de e-commerce por seccion en articulos electronicos.
 
 Competencias utilizadas:
 * Diseño Web Responsive Design.
 * Modelado de datos.
-* Desarrollo de Sistema de Gestion de Productos.
+* Desarrolló de Sistema de Gestion de Productos.
 
 Lenguajes utilizados:
 * HTML - CSS
@@ -52,7 +51,7 @@ Fecha: 2016
 ### ZonaQR - Directorio Comercial Especializado
 
 Funciones que desempeñe:
-Diseño y desarrollo e implementacion de directorio comercial especializado Web-Mobile (Responsive Design).
+Diseño y desarrolló e implementacion de directorio comercial especializado Web-Mobile (Responsive Design).
 
 Implementacion del portal:
 Colombia y Estados Unidos.
@@ -60,7 +59,7 @@ Colombia y Estados Unidos.
 Competencias utilizadas:
 * Diseño Web Responsive Design.
 * Modelado de datos.
-* Desarrollo de Sistema de Gestion de Usuarios y Publicidad.
+* Desarrolló de Sistema de Gestion de Usuarios y Publicidad.
 
 Lenguajes utilizados:
 * HTML - CSS
@@ -72,7 +71,37 @@ Enlace: [www.zonaqr.com](http://www.zonaqr.com/)
 
 Fecha: Del 2014 al 2016
 
+### JC Reparaciones - Soluciones Tecnologicas
 
+Funciones que desempeñe:
+Segundo programador y diseñador en la construccion de sitio Web Reponsive a base de tema wordpress prefabricado, con catalogo de servicios, productos, integracion de carro de compras con PayPal y demas widgets sociales y de SEO.
+Diseño de imagenes y material publicitario del catalogo de productos.
+
+Competencias utilizadas:
+* Configuracion de API de Paypal
+
+Lenguajes utilizados:
+* Widget de Paypal
+* HTML - CSS
+
+
+Enlace: [www.jcreparaciones.com/](http://jcreparaciones.com/)
+
+Fecha: Del 2013 al 2014
+
+
+### Cali Exposhow 2011 - App web-móvil
+
+Funciones que desempeñe:
+Diseñador en la creación de material gráfico utilizado en la App Web-Mobile que se desarrolló para Fenalco Valle para el seguimiento de todas las pasarelas internacionales, nacionales, eventos dentro del recinto y los distintos Stands en; Moda, Belleza, Salud y Vida saludable.
+
+Herramientas utilizadas:
+* Photoshop
+* Illustrator
+
+Enlace: [Icono del WebLauncher de la App](https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=qS6RNeuEDYURWDIfhAZA%2BQiQ6nE%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf3-_epXfKOTwuV4ULSkclFc6evL6ETm0D8W4Ko-8fYh5i5HtJ424ZxUBbFImi24)
+
+Fecha: 2011
 
 
 
@@ -93,7 +122,7 @@ En solo unos cuantos renglones... para mí el verdadero aprendizaje ha sido de f
 ### Certificaciones
 
 * [Curso de Marketing Voz a Voz - Platzi](https://platzi.com/@MaurooRen/marketing-voz/diploma/), 2017.
-* [Curso de Introduccion al Desarrollo Web - Activate Google](https://drive.google.com/file/d/0B1RMsFk-T_Z9bUd0WkZsLWxLSUE/view?usp=sharing), 2016.
+* [Curso de Introduccion al Desarrolló Web - Activate Google](https://drive.google.com/file/d/0B1RMsFk-T_Z9bUd0WkZsLWxLSUE/view?usp=sharing), 2016.
 * [Taller de Prospección en Internet](https://drive.google.com/file/d/0B1RMsFk-T_Z9ZmhzY3h3bjNsVWs/view), 2016.
 * [Taller de Google para Pymes](https://drive.google.com/file/d/0B1RMsFk-T_Z9dW1GWFUwT1lNZEE/view?usp=sharing), 2016.
 * [Maquetando al Monstruo - Acamica](https://www.acamica.com/cert/8bd29c96ac42b839a99e2e87bed5fd20b253e011?lipi=urn:li:page:d_flagship3_profile_view_base;gkubWjOHTge%2B9QX3Q8Jf6Q%3D%3D), 2014.
