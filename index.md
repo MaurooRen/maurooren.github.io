@@ -33,6 +33,22 @@ Enlace: [www.zonaqr.com](http://www.zonaqr.com/)
 
 Tiempo: Del 2014 al 2016
 
+### Rediseño SmartFixCo
+
+Funciones que desempeñe:
+Rediseño completo del sitio: Landing page, seccion de servicios, seccion de productos y pagina de producto.
+
+Competencias utilizadas:
+* Diseño Web Responsive Design.
+
+Lenguajes utilizados:
+* HTML - CSS
+* JavaScript
+
+Enlace: [www.smartfixco.com](http://www.smartfixco.com/)
+
+Tiempo: 2017
+
 ### SmartFixCo - Especialistas en Soporte Tecnico y Reparacion
 
 Funciones que desempeñe:
@@ -51,8 +67,9 @@ Lenguajes utilizados:
 * PHP
 * MySQL
 
+Enlace: [Diseño anterior](https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=mrbkogM62uykDjw9OYOi6sIG9HA%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdfyK_K5TXerqguQ4fKiwclFI0LPL6QDm0D5LveYm8ddgk3ZDscY24ZxUBbFImi24&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BfanuPJ2mRlOwCldHBn4dZw%3D%3D)
 
-
+Tiempo: 2016
 
 
 
@@ -83,6 +100,7 @@ En solo unos cuantos renglones... para mí el verdadero aprendizaje ha sido de f
 ### Cursos
 
 * Fundamentos de Bootstrap 4 - Udemy
+* Curso Diseño de páginas web en Photoshop CSS6 - Udemy
 * GitHub para programadores - Video2Brain
 * HTML5 Y CSS3 - Las tecnologías que cambiarán internet - Video2Brain
 * jQuery Mobile - Diseño de webapps multiplataforma para dispositivos móviles y tablets - Video2Brain
