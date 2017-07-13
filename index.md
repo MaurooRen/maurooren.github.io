@@ -28,6 +28,7 @@ Lenguajes utilizados:
 * JavaScript
 * PHP
 * MySQL
+
 Enlace: [www.zonaqr.com](http://www.zonaqr.com/)
 
 
