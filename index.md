@@ -10,6 +10,83 @@ layout: default
 
 ## Experiencia
 
+
+
+
+
+
+### RESTAURANTES COLOMBIANOS USA
+
+Funciones que desempeñe:
+Diseño y desarrollo de directorio para indexación de restaurantes colombianos en el área de New York y Jersey para desarrollo de compañas publicitarias omnicanal.
+
+Competencias utilizadas:
+* Diseño Web Responsive Design.
+* Integracion de Google Maps
+* Modelado de datos.
+* Desarrolló de Sistema de Gestion de Usuarios.
+
+Lenguajes utilizados:
+* HTML - CSS
+* JavaScript
+* PHP
+* MySQL
+
+Enlace: [www.restaurantes-colombianos.co](http://www.restaurantes-colombianos.co/)
+
+Fecha: 2016
+
+### US MARBLE AND GRANITE LLC
+
+Funciones que desempeñe:
+Diseño y Desarrollo Web Responsive para compañía estadounidense especializada en la fabricación y remodelación de todo tipo de encimeras, repisas, chimeneas, parillas, y demás en granito y mármol.
+
+Competencias utilizadas:
+* Diseño Web Responsive Design.
+* Integracion de Google Maps
+
+Lenguajes utilizados:
+* HTML - CSS
+* JavaScript
+
+Enlace: [www.usmarbleandgranitellc.com](http://usmarbleandgranitellc.com/)
+
+Fecha: 2016
+
+### Nick Paul Tile & Stone
+
+Funciones que desempeñe:
+Diseño y Desarrollo Web Responsive para compañía estadounidense especializada en remodelación de cocinas, encimeras de cocinas, baldosas de baños e instalacion de ganito.
+
+Competencias utilizadas:
+* Diseño Web Responsive Design.
+* Integracion de Google Maps
+
+Lenguajes utilizados:
+* HTML - CSS
+* JavaScript
+
+Enlace: [www.nickpaul.us](http://www.nickpaul.us/)
+
+Fecha: 2016
+
+### 3A HILL STONE LLC - Company specializing in Marble and Granite Countertops
+
+Funciones que desempeñe:
+Diseño y Desarrollo Web Responsive para compañía estadounidense especializada en la fabricación de mármol y granito y demás servicios de esa linea.
+
+Competencias utilizadas:
+* Diseño Web Responsive Design.
+* Integracion de Google Maps
+
+Lenguajes utilizados:
+* HTML - CSS
+* JavaScript
+
+Enlace: [www.3ahillstonellc.us](http://www.3ahillstonellc.us/)
+
+Fecha: 2016
+
 ### Rediseño SmartFixCo
 
 Funciones que desempeñe:
@@ -74,18 +151,17 @@ Fecha: Del 2014 al 2016
 ### JC Reparaciones - Soluciones Tecnologicas
 
 Funciones que desempeñe:
-Segundo programador y diseñador en la construccion de sitio Web Reponsive a base de tema wordpress prefabricado, con catalogo de servicios, productos, integracion de carro de compras con PayPal y demas widgets sociales y de SEO.
+Segundo programador y diseñador en la construccion de sitio Web Reponsive a base de tema wordpress prefabricado, con catalogo de servicios, productos, integracion de carro de compras con PayPal y demás widgets sociales y de SEO.
 Diseño de imagenes y material publicitario del catalogo de productos.
 
 Competencias utilizadas:
-* Configuracion de API de Paypal
+* Configuración de API de Paypal
 
 Lenguajes utilizados:
 * Widget de Paypal
 * HTML - CSS
 
-
-Enlace: [www.jcreparaciones.com/](http://jcreparaciones.com/)
+Enlace: [www.jcreparaciones.com](http://jcreparaciones.com/)
 
 Fecha: Del 2013 al 2014
 
@@ -102,8 +178,6 @@ Herramientas utilizadas:
 Enlace: [Icono del WebLauncher de la App](https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=qS6RNeuEDYURWDIfhAZA%2BQiQ6nE%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf3-_epXfKOTwuV4ULSkclFc6evL6ETm0D8W4Ko-8fYh5i5HtJ424ZxUBbFImi24)
 
 Fecha: 2011
-
-
 
 ## Mi educación
 	
