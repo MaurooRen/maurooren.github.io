@@ -10,28 +10,6 @@ Cita favorita: "La inspiración es para aficionados, los profesionales trabajamo
 
 ## Experiencia
 
-### ZonaQR - Directorio Comercial Especializado
-
-Funciones que desempeñe:
-Diseño y desarrollo e implementacion de directorio comercial especializado Web-Mobile (Responsive Design).
-
-Implementacion del portal:
-Colombia y Estados Unidos.
-
-Competencias utilizadas:
-* Diseño Web Responsive Design.
-* Modelado de datos.
-* Desarrollo de Sistema de Gestion de Usuarios y Publicidad.
-
-Lenguajes utilizados:
-* HTML - CSS
-* JavaScript
-* PHP
-* MySQL
-
-Enlace: [www.zonaqr.com](http://www.zonaqr.com/)
-
-Tiempo: Del 2014 al 2016
 
 ### Rediseño SmartFixCo
 
@@ -47,7 +25,7 @@ Lenguajes utilizados:
 
 Enlace: [www.smartfixco.com](http://www.smartfixco.com/)
 
-Tiempo: 2017
+Fecha: 2017
 
 ### SmartFixCo - Plataforma en Soporte Tecnico y Reparacion & E-Commerce
 
@@ -69,7 +47,30 @@ Lenguajes utilizados:
 
 Enlace: [Diseño anterior](https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=mrbkogM62uykDjw9OYOi6sIG9HA%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdfyK_K5TXerqguQ4fKiwclFI0LPL6QDm0D5LveYm8ddgk3ZDscY24ZxUBbFImi24&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_treasury%3BfanuPJ2mRlOwCldHBn4dZw%3D%3D)
 
-Tiempo: 2016
+Fecha: 2016
+
+### ZonaQR - Directorio Comercial Especializado
+
+Funciones que desempeñe:
+Diseño y desarrollo e implementacion de directorio comercial especializado Web-Mobile (Responsive Design).
+
+Implementacion del portal:
+Colombia y Estados Unidos.
+
+Competencias utilizadas:
+* Diseño Web Responsive Design.
+* Modelado de datos.
+* Desarrollo de Sistema de Gestion de Usuarios y Publicidad.
+
+Lenguajes utilizados:
+* HTML - CSS
+* JavaScript
+* PHP
+* MySQL
+
+Enlace: [www.zonaqr.com](http://www.zonaqr.com/)
+
+Fecha: Del 2014 al 2016
 
 
 
