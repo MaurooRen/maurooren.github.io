@@ -10,6 +10,26 @@ Cita favorita: "La inspiración es para aficionados, los profesionales trabajamo
 
 ## En lo que he trabajado
 
+### ZonaQR.com
+
+Funciones que desempeñe:
+Diseño y desarrollo e implementacion de directorio comercial especializado Web-Mobile (Responsive Design).
+Implementacion del portal:
+Colombia y Estados Unidos
+Competencias utilizadas:
+* Diseño Web Responsive Design.
+* Modelado de datos.
+* Desarrollo de Sistema de Gestion de Usuarios y Publicidad.
+Lenguajes utilizados:
+* HTML - CSS
+* JavaScript
+* PHP
+* MySQL
+Enlace: [www.zonaqr.com](http://www.zonaqr.com/)
+
+
+
+
 ## Mi educación
 	
 En solo unos cuantos renglones... para mí el verdadero aprendizaje ha sido de forma autodidacta "aprender haciendo", aun con un promedio de 4.0 (que no es tan bueno) en la universidad y en mis últimos años de bachillerato, tengo una distinción muy marcado en lo que he aprendido de manera formal y lo aprendido por mi propia necesidad de querer saber cómo funcionan las cosas (esto para mi implica un esfuerzo real de mi parte), pues gracias a esta necesidad he aprendido que es programar, diseñar, el marketing, la pedagogía, filosofía, la importancia de hablar en público y que es emprender...
