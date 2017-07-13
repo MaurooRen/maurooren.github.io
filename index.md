@@ -49,7 +49,7 @@ Enlace: [www.smartfixco.com](http://www.smartfixco.com/)
 
 Tiempo: 2017
 
-### SmartFixCo - Especialistas en Soporte Tecnico y Reparacion
+### SmartFixCo - Plataforma en Soporte Tecnico y Reparacion & E-Commerce
 
 Funciones que desempeñe:
 Diseño y desarrollo de sitio web y comercio prestador de servicios de electronica y telecomunicaciones.
