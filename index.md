@@ -16,7 +16,7 @@ Funciones que desempeñe:
 Diseño y desarrollo e implementacion de directorio comercial especializado Web-Mobile (Responsive Design).
 
 Implementacion del portal:
-Colombia y Estados Unidos
+Colombia y Estados Unidos.
 
 Competencias utilizadas:
 * Diseño Web Responsive Design.
@@ -30,6 +30,30 @@ Lenguajes utilizados:
 * MySQL
 
 Enlace: [www.zonaqr.com](http://www.zonaqr.com/)
+
+Tiempo: Del 2014 al 2016
+
+### SmartFixCo - Especialistas en Soporte Tecnico y Reparacion
+
+Funciones que desempeñe:
+Diseño y desarrollo de sitio web y comercio prestador de servicios de electronica y telecomunicaciones.
+Implementacion de catalogo de servicios de reparacion por modelo de dispositivo movil.
+Implementacion de e-commerce por seccion en articulos electronicos.
+
+Competencias utilizadas:
+* Diseño Web Responsive Design.
+* Modelado de datos.
+* Desarrollo de Sistema de Gestion de Productos.
+
+Lenguajes utilizados:
+* HTML - CSS
+* JavaScript
+* PHP
+* MySQL
+
+
+
+
 
 
 
