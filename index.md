@@ -10,12 +10,79 @@ layout: default
 
 ## Experiencia
 
+### Kitchen Depot LLC
 
+Funciones que desempeñe:
+Diseño y desarrolló de sitio Web Responsive para compañia americana especializada en remodelado de cocinas, el sitio centa con pagina de servicios, formulario para de citas, visualizacion en 2D de cocinas, testimonios y galeria de trabajos realizados.
 
+Competencias utilizadas:
+* Diseño Web Responsive Design.
+* Desarrolló de Sistema de Gestion de Testimonios y Galeria de trabajos realizados.
 
+Lenguajes utilizados:
+* HTML - CSS
+* JavaScript
+* PHP
+* MySQL
 
+Enlace: [www.kitchendepotus.com](http://kitchendepotus.com/)
 
-### RESTAURANTES COLOMBIANOS USA
+Fecha: 2017
+
+### OfertasTech - E-Commerce de articulos electronicos
+
+Funciones que desempeñe:
+Proyecto personal de construccion de un E-commerce de articulos tecnologicos con concepto de rebajas y atencion personalizada en el proceso de compra.
+Diseño de identidad de marca.
+
+Competencias utilizadas:
+* Diseño Web Responsive Design.
+* Modelado de datos.
+* Desarrolló de Sistema de Gestion de Productos.
+
+Lenguajes utilizados:
+* HTML - CSS
+* JavaScript
+
+**(En construcción...)**
+
+Enlace: [www.ofertastech.com](http://www.ofertastech.com/)
+
+Fecha: 2017
+
+### JUGAR USA
+
+Funciones que desempeñe:
+Diseño y desarrollo de sitio Web Responsive para compañia americana que se encarga On-demand de la entrega y montaje de equipo deportivo en el area de New Jersey.
+
+Competencias utilizadas:
+* Diseño Web Responsive Design.
+
+Lenguajes utilizados:
+* HTML - CSS
+* JavaScript
+
+Enlace: [www.jugarusa.com](http://www.jugarusa.com/)
+
+Fecha: 2017
+
+### Rediseño SmartFixCo
+
+Funciones que desempeñe:
+Rediseño completo del sitio: Landing page, seccion de servicios, seccion de productos y pagina de producto.
+
+Competencias utilizadas:
+* Diseño Web Responsive Design.
+
+Lenguajes utilizados:
+* HTML - CSS
+* JavaScript
+
+Enlace: [www.smartfixco.com](http://www.smartfixco.com/)
+
+Fecha: 2017
+
+### RESTAURANTES COLOMBIANOS EN USA
 
 Funciones que desempeñe:
 Diseño y desarrollo de directorio para indexación de restaurantes colombianos en el área de New York y Jersey para desarrollo de compañas publicitarias omnicanal.
@@ -86,22 +153,6 @@ Lenguajes utilizados:
 Enlace: [www.3ahillstonellc.us](http://www.3ahillstonellc.us/)
 
 Fecha: 2016
-
-### Rediseño SmartFixCo
-
-Funciones que desempeñe:
-Rediseño completo del sitio: Landing page, seccion de servicios, seccion de productos y pagina de producto.
-
-Competencias utilizadas:
-* Diseño Web Responsive Design.
-
-Lenguajes utilizados:
-* HTML - CSS
-* JavaScript
-
-Enlace: [www.smartfixco.com](http://www.smartfixco.com/)
-
-Fecha: 2017
 
 ### SmartFixCo - Plataforma en Soporte Tecnico y Reparacion & E-Commerce
 
@@ -215,7 +266,7 @@ En solo unos cuantos renglones... para mí el verdadero aprendizaje ha sido de f
 * Proyecto [Neurófilos](http://facebook.com/neurofilos): Actualmente soy el **Coordinador & Director de Medios Digitales**, me encargo del área logística en Talleres como: [TREC - Dra. Ann Vernon](https://www.facebook.com/neurofilos/posts/1918473871768816), [Filosofía para niños](https://www.facebook.com/neurofilos/videos/1899372483678955/), [Escritura de guiones - Andrés Beltrán](https://www.facebook.com/neurofilos/posts/1903287973287406), [Filosofía Antigua - François Gagin](https://www.facebook.com/neurofilos/posts/1908076889475181), el uso de herramientas digital y redes sociales, en procesos educativo y marketing (2016 - Actualidad).
 * Foro Municipal de Educación de Santiago de Cali: Participación del Proyecto Neurófilos en el Foro Municipal de Educación de Santiago de Cali como una propuesta de mejorar la calidad de la educación en las instituciones de carácter oficial (2016).
 * School MeetUp - [CCC](http://www.ccc.org.co/): Seleccionado como Líder Emprendedor por las directivas de la I.E.N.S., junto a otros dos jóvenes, realice la apertura a los expositores José Julián Sánchez y [Óscar Giraldo](https://www.facebook.com/MiHistoriaOscarGiraldo/), emprendedores de alto impacto en la región, en el ‘School MeetUp’, un espacio diseñado por la Secretaría de Educación Municipal y la Cámara de Comercio de Cali (2016).
-* Proyecto PUNA: Tuve el rol de Diseñador Gráfico, Apoyo logisto a eventos y Apoyo en redes sociales y medios digitales en este proyecto institución, el cual tenía como finalidad el mejoramiento y enriquecimiento en la cultura cívica y ambiental dentro de la I.E.N.S. (2013 - 2016).
+* Proyecto PUNA: Tuve el rol de Diseñador Gráfico, Apoyo logisto en eventos institucionales y apoyo en redes sociales y medios digitales en este proyecto institución, el cual tenía como finalidad el mejoramiento y enriquecimiento en la cultura cívica y ambiental dentro de la I.E.N.S. (2013 - 2016).
 * Institución Educativa [El Hormiguero](https://drive.google.com/drive/folders/0B1RMsFk-T_Z9ZTlOblozZGlWcTA?usp=sharing): Junto con el Proyecto PUNA, realizamos actividades de acompañamiento y socialización en **cuidado del medio ambiente** a esta institución, valga destacar RURAL, que a su vez con el papel de centro educativo recibe y atiende a niños y niñas de escasos recursos y situaciones de vulnerabilidad.
 
 ## ¿Mas acerca de mi?
