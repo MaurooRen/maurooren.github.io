@@ -8,18 +8,21 @@ Cita favorita: "La inspiración es para aficionados, los profesionales trabajamo
 
 ## Acerca de mí
 
-## En lo que he trabajado
+## Experiencia
 
-### ZonaQR.com
+### ZonaQR - Directorio Comercial Especializado
 
 Funciones que desempeñe:
 Diseño y desarrollo e implementacion de directorio comercial especializado Web-Mobile (Responsive Design).
+
 Implementacion del portal:
 Colombia y Estados Unidos
+
 Competencias utilizadas:
 * Diseño Web Responsive Design.
 * Modelado de datos.
 * Desarrollo de Sistema de Gestion de Usuarios y Publicidad.
+
 Lenguajes utilizados:
 * HTML - CSS
 * JavaScript
