@@ -4,7 +4,7 @@ layout: default
 
 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/maurooren) [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/maurooren) [<i class="fa fa-linkedin" aria-hidden="true"></i>](https://www.linkedin.com/in/maurooren/) [<i class="fa fa-instagram" aria-hidden="true"></i>](https://www.instagram.com/maurooren/)
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+Cita favorita: "La inspiración es para aficionados, los profesionales trabajamos por la mañana" Chuck Close
 
 ## Acerca de mí
 
@@ -16,7 +16,7 @@ En solo unos cuantos renglones... para mí el verdadero aprendizaje ha sido de f
 
 ### Pregrado (Actual)
 
-* Pregrado en Tecnología de Sistemas de la Información en la [Universidad del Valle](http://tecnosistemas.univalle.edu.co/)
+* Curso actualmente un pregrado en Tecnología de Sistemas de la Información en la [Universidad del Valle](http://tecnosistemas.univalle.edu.co/)
 
 ### Bachiller
 
@@ -27,7 +27,7 @@ En solo unos cuantos renglones... para mí el verdadero aprendizaje ha sido de f
 ### Certificaciones
 
 * [Curso de Marketing Voz a Voz - Platzi](https://platzi.com/@MaurooRen/marketing-voz/diploma/), 2017.
-* [Curso de Introduccion al Desarrollo Web](https://drive.google.com/file/d/0B1RMsFk-T_Z9bUd0WkZsLWxLSUE/view?usp=sharing), 2016.
+* [Curso de Introduccion al Desarrollo Web - Activate Google](https://drive.google.com/file/d/0B1RMsFk-T_Z9bUd0WkZsLWxLSUE/view?usp=sharing), 2016.
 * [Taller de Prospección en Internet](https://drive.google.com/file/d/0B1RMsFk-T_Z9ZmhzY3h3bjNsVWs/view), 2016.
 * [Taller de Google para Pymes](https://drive.google.com/file/d/0B1RMsFk-T_Z9dW1GWFUwT1lNZEE/view?usp=sharing), 2016.
 * [Maquetando al Monstruo - Acamica](https://www.acamica.com/cert/8bd29c96ac42b839a99e2e87bed5fd20b253e011?lipi=urn:li:page:d_flagship3_profile_view_base;gkubWjOHTge%2B9QX3Q8Jf6Q%3D%3D), 2014.
