@@ -251,6 +251,8 @@ En solo unos cuantos renglones... para mí el verdadero aprendizaje ha sido de f
 * Fundamentos de Bootstrap 4 - Udemy
 * Curso Diseño de páginas web en Photoshop CSS6 - Udemy
 * GitHub para programadores - Video2Brain
+* PHP: Seguridad - Video2Brain
+* PHP y SQL: Gestión de datos - Video2Brain
 * HTML5 Y CSS3 - Las tecnologías que cambiarán internet - Video2Brain
 * jQuery Mobile - Diseño de webapps multiplataforma para dispositivos móviles y tablets - Video2Brain
 * Adobe Dreamweaver CS4 Avanzado - Video2Brain
