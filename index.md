@@ -4,10 +4,6 @@ layout: default
 
 [<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/maurooren) [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/maurooren) [<i class="fa fa-linkedin" aria-hidden="true"></i>](https://www.linkedin.com/in/maurooren/) [<i class="fa fa-instagram" aria-hidden="true"></i>](https://www.instagram.com/maurooren/)
 
-## Acerca de mí
-
-"La inspiración es para aficionados, los profesionales trabajamos por la mañana" Chuck Close
-
 ## Experiencia
 
 ### Kitchen Depot LLC
