@@ -230,7 +230,7 @@ En solo unos cuantos renglones... para mí el verdadero aprendizaje ha sido de f
 
 ### Pregrado (Actual)
 
-* Curso actualmente un pregrado en Tecnología de Sistemas de la Información en la [Universidad del Valle](http://tecnosistemas.univalle.edu.co/)
+* Curso actualmente un pregrado en **Tecnología de Sistemas de la Información** en la [Universidad del Valle](http://tecnosistemas.univalle.edu.co/)
 
 ### Bachiller
 
